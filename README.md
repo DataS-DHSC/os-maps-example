@@ -1,5 +1,7 @@
 # os-maps-example
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/DataS-DHSC/os-maps-example)
+
 ## Overview
 
 OS Maps API example in Python. Adapted from the tutorial [price-paid-spatial-distribution](https://github.com/OrdnanceSurvey/os-data-hub-tutorials/tree/master/data-science/price-paid-spatial-distribution) by Ordnance Survey.
