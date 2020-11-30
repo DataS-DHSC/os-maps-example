@@ -5,3 +5,8 @@ pytest
 recommonmark
 Sphinx
 sphinx-markdown-tables
+descartes
+Fiona
+folium
+geopandas
+pandas
