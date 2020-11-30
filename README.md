@@ -2,7 +2,9 @@
 
 ## Overview
 
-OS Maps Example in Python
+OS Maps Example in Python. Adapted from the tutorial [price-paid-spatial-distribution](https://github.com/OrdnanceSurvey/os-data-hub-tutorials/tree/master/data-science/price-paid-spatial-distribution) by Ordnance Survey.
+
+Project structure  created by [govcookiecutter](https://github.com/ukgovdatascience/govcookiecutter) at the latest version as of 30 November 2020.
 
 ## Requirements
 
@@ -87,7 +89,7 @@ An overview of the folder structure, and the top-level files can be found [here]
 
 ## Installing pre-commit hooks
 
-This repo uses the Python package [`pre-commit`](https://pre-commit.com) to manage pre-commit hooks. Pre-commit hooks 
+This repo uses the Python package [`pre-commit`](https://pre-commit.com) to manage pre-commit hooks. Pre-commit hooks
 are actions which are run automatically, typically on each commit, to perform some common set of tasks. For example, a
 pre-commit hook might be used to run any code linting automatically, providing any warnings before code is committed,
 ensuring that all of our code adheres to a certain quality standard.
@@ -127,7 +129,7 @@ accordingly.
 
 ### If `pre-commit` detects secrets during commit:
 
-If `pre-commit` detects any secrets when you try to create a commit, it will detail what it found and where to go to 
+If `pre-commit` detects any secrets when you try to create a commit, it will detail what it found and where to go to
 check the secret.
 
 If the detected secret is a false-positive, you should update the secrets baseline through the following steps:
