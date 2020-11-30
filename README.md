@@ -2,7 +2,7 @@
 
 ## Overview
 
-OS Maps API example in Python. Adapted from the tutorial [price-paid-spatial-distribution](https://github.com/OrdnanceSurvey/os-data-hub-tutorials/tree/master/data-science/price-paid-spatial-distribution) by Ordnance Survey.
+[OS Maps API example](https://github.com/DataS-DHSC/os-maps-example/blob/main/notebooks/os_maps_example.ipynb) in Python. Adapted from the tutorial [price-paid-spatial-distribution](https://github.com/OrdnanceSurvey/os-data-hub-tutorials/tree/master/data-science/price-paid-spatial-distribution) by Ordnance Survey.
 
 Project structure  created by [govcookiecutter](https://github.com/ukgovdatascience/govcookiecutter) at the latest version as of 30 November 2020.
 
