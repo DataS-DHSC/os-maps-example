@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataS-DHSC/os-maps-example/HEAD?filepath=https%3A%2F%2Fgithub.com%2FDataS-DHSC%2Fos-maps-example%2Fblob%2Fmain%2Fnotebooks%2Fos_maps_example.ipynb)
+
 # os-maps-example
 
 ## Overview
